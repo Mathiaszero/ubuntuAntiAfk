@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Click-Script
+Icon=</path/>
+Exec=gnome-terminal -e "bash -c '~/Desktop/keep-presence_vpn.sh;$SHELL'"
+Categories=Application;
